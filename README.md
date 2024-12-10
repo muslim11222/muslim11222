@@ -1,4 +1,4 @@
-![khan (2)](https://github.com/user-attachments/assets/7093ca29-6464-459a-b5be-ae8ed4da1662)
+
 ![Purple Abstract Graphic Design LinkedIn Article Cover Image](https://github.com/user-attachments/assets/07eaa50f-fe45-4027-9a77-3451928b8af4)
 
 
