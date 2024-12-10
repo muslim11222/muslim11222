@@ -1,5 +1,5 @@
 ![khan (2)](https://github.com/user-attachments/assets/7093ca29-6464-459a-b5be-ae8ed4da1662)
-![khan (2)]([https://github.com/user-attachments/assets/7093ca29-6464-459a-b5be-ae8ed4da1662](https://i.ibb.co.com/K5BfzhY/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png))
+![khan (3)]((https://i.ibb.co.com/K5BfzhY/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png))
 
 
 
