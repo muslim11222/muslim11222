@@ -1,5 +1,6 @@
 
 ![Purple Abstract Graphic Design LinkedIn Article Cover Image](https://github.com/user-attachments/assets/07eaa50f-fe45-4027-9a77-3451928b8af4)
+![Image](https://github.com/user-attachments/assets/36d28937-3e95-46e0-96d8-1e44aa5432f4)
 
 
 
