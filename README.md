@@ -9,15 +9,21 @@
 
 
 ### Hi there 👋, I'm Muslim
-#### Web Developer
+#### WordPress Plugin Developer
 
 
-I'm a Web developer who is passionate about making error-free websites with 100% client satisfaction.and  I love to solve real-world problems. even  I have a passion for learning and sharing my knowledge with others as publicly as possible. Most of the time I work with WordPress but some technologies I enjoy working with include HTML CSS, JavaScript as well as 
+I am an experienced WordPress plugin developer with over 2 years of hands-on experience in developing custom plugins using PHP and WordPress standards. I have successfully published two plugins on the official WordPress.org repository:
 
-Skills:  HTML / CSS / JAVASCRIPT / PHP / 
+1. "Contact Popover" – A simple and customizable popover display plugin.
+2. "Kids English Alphabet Pronunciation" – An educational plugin designed for kids to learn English alphabets with sound, visuals, and examples.
+
+In addition to developing plugins, I actively contribute to the WordPress.org community as a Translation Contributor, helping localize plugins and themes for Bengali-speaking users. My work reflects clean coding practices, OOP principles, and a deep understanding of WordPress hooks, actions, shortcodes, and admin UI customization.
+I am passionate about building useful, user-friendly plugins that follow WordPress guidelines and enhance the user experience.
+
+Skills:  HTML / CSS / JAVASCRIPT / PHP / PHP OOP /  
 
 - 🔭 I’m currently working on Telecom 
-- 🌱 I’m currently learning PHP 
+- 🌱 I’m currently learning Plugin Development 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 
