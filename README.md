@@ -12,7 +12,7 @@
 #### Web Developer
 
 
-I'm a Web developer who is passionate about making error-free websites with 100% client satisfaction.and  I love to solve real-world problems. even  I have a passion for learning and sharing my knowledge with others as publicly as possible. Most of the time I work with WordPress but some technologies I enjoy working with include HTML CSS, JavaScript as well as PHP.
+I'm a Web developer who is passionate about making error-free websites with 100% client satisfaction.and  I love to solve real-world problems. even  I have a passion for learning and sharing my knowledge with others as publicly as possible. Most of the time I work with WordPress but some technologies I enjoy working with include HTML CSS, JavaScript as well as 
 
 Skills:  HTML / CSS / JAVASCRIPT / PHP / 
 
