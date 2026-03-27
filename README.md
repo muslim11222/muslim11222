@@ -12,13 +12,23 @@
 #### WordPress Plugin Developer
 
 
-I am an experienced WordPress plugin developer with over 2 years of hands-on experience in developing custom plugins using PHP and WordPress standards. I have successfully published two plugins on the official WordPress.org repository:
+I am a WordPress plugin developer with 2+ years of experience in building custom plugins using PHP and WordPress standards.
 
-1. "Contact Popover" – A simple and customizable popover display plugin.
-2. "Kids English Alphabet Pronunciation" – An educational plugin designed for kids to learn English alphabets with sound, visuals, and examples.
+I have developed and published several plugins, including:
 
-In addition to developing plugins, I actively contribute to the WordPress.org community as a Translation Contributor, helping localize plugins and themes for Bengali-speaking users. My work reflects clean coding practices, OOP principles, and a deep understanding of WordPress hooks, actions, shortcodes, and admin UI customization.
-I am passionate about building useful, user-friendly plugins that follow WordPress guidelines and enhance the user experience.
+* Contact Popover – A customizable popover display plugin
+* Flexi Booking System – A flexible booking management plugin
+* Kids English Alphabet – An educational plugin for learning alphabets
+* Product Warranty and Guarantee for WooCommerce – Adds warranty features to WooCommerce products
+
+I have also developed a lightweight WordPress theme:
+
+* Blogoralite (100+ active installs) – A clean and performance-focused blog theme
+
+Additionally, I contribute to WordPress.org as a Translation Contributor, helping localize plugins and themes for Bengali users.
+
+I follow clean coding practices, OOP principles, and have strong experience with hooks, shortcodes, and admin UI customization.
+
 
 Skills:  HTML / CSS / JAVASCRIPT / PHP / PHP OOP /  
 
